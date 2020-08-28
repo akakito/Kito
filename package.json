@@ -1,0 +1,31 @@
+{
+  "name": "Kito",
+  "version": "1.0.0",
+  "description": "Tools Bot And Fun Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": { "node": "12.13.1" },
+  "author": "KitoFN YT",
+  "license": "ISC",
+  "dependencies": {
+    "akaneko": "^2.1.1",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "emoji-regex": "^9.0.0",
+    "fortnite": "^4.3.2",
+    "fs": "0.0.1-security",
+    "giphy-api": "^2.0.1",
+    "mathjs": "^6.6.4",
+    "moment": "^2.25.3",
+    "mongodb": "3.5.5",
+    "mongoose": "^5.9.10",
+    "ms": "2.1.2",
+    "node-fetch": "^2.6.0",
+    "profanities": "^2.13.0",
+    "randomcolor": "0.5.4",
+    "strict-uri-encode": "^2.0.0",
+    "weather-js": "^2.0.0"
+  }
+}

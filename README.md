@@ -1,2 +1,0 @@
-# Kito
-A discord bot

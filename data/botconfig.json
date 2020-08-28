@@ -1,0 +1,20 @@
+{
+	"prefix": "k!",
+	"currency": "₭Ɽł$₵Øł₦",
+	"me": "424943088876781568",
+	"activities":
+	[
+		{
+			"name": "Prefix: k!",
+			"type": "PLAYING"
+		},
+		{
+			"name": "<guilds.size> servers",
+			"type": "WATCHING"
+		},
+		{
+			"name": "k!help",
+			"type": "PLAYING"
+		}
+	]
+}

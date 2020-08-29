@@ -6,3 +6,4 @@ Kito's Social Media's
 :instagram: KitoFN on Instagram: https://www.instagram.com/kitocastro14
 :discord: KitoFN Permanent Discord Link https://discord.gg/6JwkXxD
 :instagram: KitoFN on Instagram: https://www.instagram.com/kitocastro10
+[![Run on Repl.it](https://repl.it/badge/github/akakito/kito)](https://repl.it/github/akakito/kito)
